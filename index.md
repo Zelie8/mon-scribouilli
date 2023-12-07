@@ -1,8 +1,12 @@
 ---
-title: Accueil
+title: "Présentation"
 order: 0
+in_menu: true
 ---
+# Je me présente:
 
-# L'Échappée Belle
+**Mes Hobbies**:
 
-L'Échappée Belle est **une association** qui a pour objet de soutenir et promouvoir des activités et des personnes qui travaillent autour de **valeurs de consentement, de bien commun et de prendre soin des personnes et de l’environnement**.
+J'aime faire de l'équitation, du piano, lire, écouter de la musique et faire des photos et des vidéos. 
+J'aime beaucoup **_les pokémons_**.
+Mon préféré est goupix d' Alola (parce qu'il est trop chou). J'aime aussi beaucoup goupix. 
